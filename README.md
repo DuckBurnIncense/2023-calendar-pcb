@@ -2,7 +2,7 @@
 
 (本文不会刻意区分 "日历" 和 "月历" 两个概念, 把它们都理解成 "月历" 就行)
 
-**PCB源文件开源在立创开源硬件平台:** [https://oshwhub.com/Duckburnincense/2023Calendar](https://oshwhub.com/Duckburnincense/2023Calendar)
+**PCB源文件开源在立创开源硬件平台:** [https://oshwhub.com/Duckburnincense/2023Calendar](https://oshwhub.com/Duckburnincense/2023-calendar)
 
 **其余文件** (用到的月历生成程序、图片、字体文件等) **开源在GitHub:** [https://github.com/DuckBurnIncense/2023-calendar-pcb](https://github.com/DuckBurnIncense/2023-calendar-pcb)
 
