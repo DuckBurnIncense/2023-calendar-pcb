@@ -2,7 +2,7 @@
 
 (本文不会刻意区分 "日历" 和 "月历" 两个概念, 把它们都理解成 "月历" 就行)
 
-**PCB源文件开源在立创开源硬件平台:** [https://oshwhub.com/Duckburnincense/2023-calendar](https://oshwhub.com/Duckburnincense/2023-calendar)
+**PCB源文件开源在立创开源硬件平台:** [https://oshwhub.com/duckburnincense/2023-calendar](https://oshwhub.com/duckburnincense/2023-calendar)
 
 **其余文件** (用到的月历生成程序、图片、字体文件等) **开源在GitHub:** [https://github.com/DuckBurnIncense/2023-calendar-pcb](https://github.com/DuckBurnIncense/2023-calendar-pcb)
 
@@ -20,9 +20,11 @@
 
 ## 实际效果
 
-等春节后打的板子到了再补 (如果我记得的话)
+![实物图1](images/docs-image/实物图1.jpg)
 
-(不知道字符够不够清晰, 毕竟一片月历只有33.3mm\*50mm大)
+![实物图2](images/docs-image/实物图2.jpg)
+
+![实物图3](images/docs-image/实物图3.jpg)
 
 ## 板子的3D图
 
